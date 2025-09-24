@@ -1,4 +1,4 @@
-# Author: Amrinder Singh; Date: Sep 9, 2025; Purpose: Class Assignment
+# Author: Ojochide Usman-Aguda; Date: Sep 9, 2025; Purpose: Class Assignment
 
 cars <- mtcars
 training_data <- cars[1:16,]
