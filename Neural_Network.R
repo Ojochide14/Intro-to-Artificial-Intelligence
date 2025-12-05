@@ -1,4 +1,4 @@
-#Author: Ricardo Barnes, Date: 11/06/2025, Purpose: Implement Neural Networks 
+#Author: Usman-Aguda, Date: 11/06/2025, Purpose: Implement Neural Networks 
 
 #Load Library Caret 
 library(caret)
@@ -59,4 +59,5 @@ confusionMatrix(predictions, validation$Species)
 #Prevalence                  0.3333            0.3333           0.3333
 #Detection Rate              0.3333            0.3333           0.3333
 #Detection Prevalence        0.3333            0.3333           0.3333
+
 #Balanced Accuracy           1.0000            1.0000           1.0000
