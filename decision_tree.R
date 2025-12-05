@@ -1,4 +1,4 @@
-#Author: Ricardo Barnes, Date: 09/23/2025; Purpose: Test decision trees in R
+#Author: Usman-Aguda, Date: 09/23/2025; Purpose: Test decision trees in R
 
 
 #install pakage
@@ -106,4 +106,5 @@ fit
 > text(fit, use.n=TRUE, all=TRUE,cex=.8)
 
   
+
   
